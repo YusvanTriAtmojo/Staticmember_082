@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MbrStatic", "MbrStatic\MbrStatic.vcxproj", "{5D395AF7-F288-463E-B6C7-B27B41C176C8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "destruktor", "destruktor\destruktor.vcxproj", "{B318222A-A403-4B15-BEE0-681DF95C2FF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5D395AF7-F288-463E-B6C7-B27B41C176C8}.Release|x64.Build.0 = Release|x64
 		{5D395AF7-F288-463E-B6C7-B27B41C176C8}.Release|x86.ActiveCfg = Release|Win32
 		{5D395AF7-F288-463E-B6C7-B27B41C176C8}.Release|x86.Build.0 = Release|Win32
+		{B318222A-A403-4B15-BEE0-681DF95C2FF3}.Debug|x64.ActiveCfg = Debug|x64
+		{B318222A-A403-4B15-BEE0-681DF95C2FF3}.Debug|x64.Build.0 = Debug|x64
+		{B318222A-A403-4B15-BEE0-681DF95C2FF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{B318222A-A403-4B15-BEE0-681DF95C2FF3}.Debug|x86.Build.0 = Debug|Win32
+		{B318222A-A403-4B15-BEE0-681DF95C2FF3}.Release|x64.ActiveCfg = Release|x64
+		{B318222A-A403-4B15-BEE0-681DF95C2FF3}.Release|x64.Build.0 = Release|x64
+		{B318222A-A403-4B15-BEE0-681DF95C2FF3}.Release|x86.ActiveCfg = Release|Win32
+		{B318222A-A403-4B15-BEE0-681DF95C2FF3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
